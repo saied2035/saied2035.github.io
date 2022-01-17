@@ -46,7 +46,7 @@ fourth project at mcroverse desktop version of potofolio :
 
 ## Live Demo
 
-[Live Demo Link](https://saied2035.github.io/mobile-version-skeleton/)
+[view portfolio](https://saied2035.github.io/)
 
 
 ## Getting Started
